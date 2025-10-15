@@ -1,0 +1,28 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+
+# Project-specific python builds
+dofbot_python/__pycache__/
+dofbot_python/build/
+dofbot_python/dist/
+dofbot_python/Arm_Lib.egg-info/
+
+# C++ build output
+dofbot_c++/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS metadata
+.DS_Store
