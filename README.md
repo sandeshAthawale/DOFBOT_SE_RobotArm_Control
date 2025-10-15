@@ -1,5 +1,5 @@
 # DOFBOT-SE Control Suite
-<https://category.yahboom.net/products/dofbot-se?srsltid=AfmBOophgV9sLxIVlWKlYBEeO8n5Gbtx1hqm2wIYEDh1uMDu2t9Afowh>
+[Buy the DOFBOT-SE from Yahboom](https://category.yahboom.net/products/dofbot-se?srsltid=AfmBOophgV9sLxIVlWKlYBEeO8n5Gbtx1hqm2wIYEDh1uMDu2t9Afowh)
 
 ![DOFBOT-SE robotic arm](images/DOFBOT-SE_RoboticArm_Yahboom.webp)
 
@@ -106,5 +106,5 @@ Use `Ctrl+C` to stop long-running routines; the programs exit cleanly even mid-m
 
 ## Author
 
-Sandesh Athawale
+Sandesh Athawale<br>
 Currently based in Tokyo, Japan 🇯🇵 and working as a System engineer.

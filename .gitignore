@@ -23,6 +23,7 @@ Makefile
 
 # Notebook checkpoints
 .ipynb_checkpoints/
+*.ipynb
 
 # macOS metadata
 .DS_Store
